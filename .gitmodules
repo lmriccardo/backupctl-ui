@@ -1,0 +1,3 @@
+[submodule "backupctl-cli"]
+	path = backupctl-cli
+	url = https://github.com/lmriccardo/rsync_backup_planner.git
