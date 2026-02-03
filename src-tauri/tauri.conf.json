@@ -13,8 +13,10 @@
     "windows": [
       {
         "title": "backupctl-ui",
-        "width": 800,
-        "height": 600
+        "width": 1280,
+        "height": 860,
+        "minWidth": 1280,
+        "minHeight": 860
       }
     ],
     "security": {
